@@ -1,0 +1,8 @@
+
+ALI,12 Oracle,Hadir,
+BEJO,12 ACP,Hadir,
+BABA,12 B,Izin,
+UDIN,12 D,Alpa,
+UCUP,12 A,Izin,
+Azis,12 Oracle,Hadir,
+UCOK,12 Oracle,SAKIT
